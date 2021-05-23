@@ -1,0 +1,6 @@
+[serve]
+port=3000
+
+[build]
+target = "index.html"
+dist = "dist"
